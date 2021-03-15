@@ -7,7 +7,7 @@ ___
 
 ___
 
-![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&theme=buefy&show_owner=true)
+![IqbalOfficial github stats](https://github-readme-stats.vercel.app/api?username=IqbalRizki&show_icons=true&theme=buefy&show_owner=true)
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhankbarbar&theme=buefy)
